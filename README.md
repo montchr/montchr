@@ -2,12 +2,12 @@
 
 I'm a software developer based in Philadelphia, PA, USA.
 
-I currently work at @alleyinteractive!
+I currently work at [Alley](https://alley.co)!
 
 You can reach me:
 
-[chris@cdom.io](mailto:chris@cdom.io)
-[@montchr on Twitter](https://twitter.com/montchr)
+- [chris@cdom.io](mailto:chris@cdom.io)
+- [@montchr on Twitter](https://twitter.com/montchr)
 
 #### Previously
 
