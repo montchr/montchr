@@ -9,7 +9,7 @@ You can reach me:
 - [chris@cdom.io](mailto:chris@cdom.io)
 - [@montchr on Twitter](https://twitter.com/montchr)
 
-### ~Not Work~ Fun Work
+### ~Not Work~ Free Work
 
 - Fiddling with Emacs (via Doom), Nix package manager, and tweaking shell scripts in https://github.com/montchr/dots
 - Learning about self-hosted cloud services
