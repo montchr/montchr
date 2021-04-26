@@ -27,5 +27,5 @@ You can reach me:
 #### Lately Etc.
 
 - Listening to various artists on 12k Records, various 90s pop artists, various shows on NTS Radio
-- Posting [images](https://www.instagram.com/catachresis.lamonte/) of my cats, deteriorating infrastructure, real estate scams, fleeting observations on hypercapitalism at
+- Posting [images](https://www.instagram.com/catachresis.lamonte/) of my cats, deteriorating infrastructure, real estate scams, fleeting observations on hypercapitalism
 - Reading the short stories of J.G. Ballard
