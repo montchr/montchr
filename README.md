@@ -1,8 +1,6 @@
 ### Hello Word!
 
-I'm a software developer based in Philadelphia, PA, USA.
-
-I currently work at [Alley](https://alley.co)!
+I currently work at [Alley](https://alley.co) from Philadelphia.
 
 You can reach me:
 
@@ -27,6 +25,6 @@ You can reach me:
 ### Lately Etc.
 
 - Listening to various artists on 12k Records, various 90s pop artists, various shows on NTS Radio
-- [Photographing](https://www.instagram.com/catachresis.lamonte/) of my cats, deteriorating infrastructure, real estate scams, fleeting observations on hypercapitalism
+- [Photographing](https://www.instagram.com/catachresis.lamonte/) my cats, deteriorating infrastructure, real estate scams, fleeting observations on hypercapitalism
 - Rarely leaving the house
 - ~Reading~ listening to the short stories of J.G. Ballard
