@@ -9,7 +9,7 @@ You can reach me:
 
 ### ~Not Work~ Free Work
 
-I live within and tend to the Dotfield, whether at work or home or elsewhere:
+I live within and tend to the Dotfield:
 
 https://github.com/montchr/dotfield
 
