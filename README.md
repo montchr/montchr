@@ -1,19 +1,19 @@
 ### Hello Word!
 
-I currently work as a Senior Software Developer at [Alley](https://alley.co), my telepresence projected by way of Philadelphia.
+I currently work as a Senior Software Developer at [Alley](https://alley.co) from Philadelphia.
 
 You can reach me:
 
 - [chris@cdom.io](mailto:chris@cdom.io)
 - [@montchr on Twitter](https://twitter.com/montchr)
 
-### ~Not Work~ Free Work
+### Personal Work
 
 I live within and tend to the Dotfield:
 
 https://github.com/montchr/dotfield
 
-- Wading (slipping?) deeper and deeper into the Nix/NixOS ecosystem, shaving the sea-yaks I meet along the way
+- Perpetual learner and user of the Nix/NixOS ecosystem
 - Fiddling with Emacs (via Doom)
 - Learning about self-hosted cloud services
 
@@ -29,7 +29,10 @@ https://github.com/montchr/dotfield
 
 ### Lately Etc.
 
+- Listening to audiobooks – some recent favorites listed below
+  - "Mythos" by Stephen Fry
+  - "Cities of the Red Night" by William S. Burroughs
+  - "The Peripheral" by William Gibson
 - Listening to various shows on NTS Radio
-- [Photographing](https://www.instagram.com/catachresis.lamonte/) my cats, deteriorating infrastructure, real estate scams, fleeting observations on hypercapitalism
+- [Photographing](https://www.instagram.com/catachresis.lamonte/) my cats, deteriorating infrastructure, fleeting observations on hypercapitalism
 - Rarely leaving the house
-- ~Reading~ listening to "The Peripheral" by William Gibson, and the short stories of J.G. Ballard
