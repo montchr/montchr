@@ -5,6 +5,12 @@ I am a software developer specializing in the digital media industry and higher 
 You can reach me:
 
 - [chris@cdom.io](mailto:chris@cdom.io)
+- [chmont@proton.me](mailto:chmont@proton.me)
+
+### Work
+
+I am the lead developer at Klein College
+of Media and Communication at Temple University. 
 
 ### Personal Work
 
