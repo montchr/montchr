@@ -9,7 +9,7 @@ You can reach me:
 
 ### Work
 
-I am the lead developer at Klein College
+I am lead developer at Klein College
 of Media and Communication at Temple University. 
 
 ### Personal Work
