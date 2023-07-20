@@ -4,8 +4,8 @@ I am a software developer specializing in the digital media industry and higher 
 
 You can reach me:
 
+- [@montchr@assemblag.es](https://assemblag.es/@montchr)
 - [chris@cdom.io](mailto:chris@cdom.io)
-- [chmont@proton.me](mailto:chmont@proton.me)
 
 ### Work
 
